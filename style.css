@@ -33,6 +33,7 @@ input{
     width: 370px;
     padding: 15px;
     background-color: #F5F2F2;
+    border-radius: 10px;
 }
 button{
     margin-top: 15px;
@@ -41,6 +42,7 @@ button{
     align-self: center;
     cursor: pointer;
     background-color: #94A378;
+    border-radius: 10px;
 }
 th,td:nth-child(1){
     background-color: #FFFDCE;
